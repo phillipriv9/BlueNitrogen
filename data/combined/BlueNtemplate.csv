@@ -1,0 +1,2 @@
+study_id,DOI,site_id,core_id,corenotes,Habitat_type,Habitat,Year_collected,Latitude,Longitude,U_depth_m,L_depth_m,OC_perc,N_perc,LOI,BD_reported_g_cm3,notes
+Pastore et al. 2013,https://doi.org/10.1038/s41558-018-0162-5,SERC,2,control plot,Salt marsh,marsh,2014,38.873734,76.549577,0,0.02,40.40961,1.9407891,NA,0.111540761,

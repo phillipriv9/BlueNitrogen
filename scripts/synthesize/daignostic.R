@@ -3,8 +3,8 @@ library(readr)
 library(dplyr)
 
 # Read the CSV file into a data frame
-#df <- read_csv("combined/CCN_combined_data.csv")
-#df<- read_csv("combined/Maxwell_combined_data.csv")
+#df <- read_csv("data/combined/CCN_combined_data.csv")
+#df<- read_csv("data/combined/Maxwell_combined_data.csv")
 
 #total segments for CCN
 unique_combinations <- df %>%
@@ -16,7 +16,7 @@ unique_combinations <- df %>%
   
 #for MAxwell
   unique_combinations <- df %>%
-    #filter(Database %in% ("Maxwell"))%>%
+    filter(Database %in% ("Maxwell"))%>%
     distinct(study_site_core, U_depth_m) %>%
     summarise(unique_combinations_count = n()) 
   # Print the result

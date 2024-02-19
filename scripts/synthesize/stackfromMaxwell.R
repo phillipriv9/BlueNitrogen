@@ -5,7 +5,7 @@ library(dplyr)
 library(purrr)
 
 # Set the path to the folder containing your CSV files
-folder_path <- "refined/"
+folder_path <- "data/refined/"
 
 # Get a list of all CSV files in the folder
 csv_files <- list.files(path = folder_path, pattern = "\\.csv$", full.names = TRUE)

@@ -3,7 +3,7 @@ library(dplyr)
 #library(tidyverse)
 library(lme4)
 
-df<-read.csv("combined/AllCombined.csv")
+df<-read.csv("data/combined/AllCombined.csv")
 
 df$Latitude <- as.numeric(df$Latitude)
 

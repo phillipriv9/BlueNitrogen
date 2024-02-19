@@ -4,7 +4,7 @@ library(dplyr)
 library(purrr)
 
 # Set the path to the folder containing your CSV files
-folder_path <- "CCN/"
+folder_path <- "data/CCN/"
 
 # Get a list of all CSV files in the folder
 csv_files <- list.files(path = folder_path, pattern = "\\.csv$", full.names = TRUE)
@@ -59,7 +59,7 @@ combined_data2 <- combined_data%>%
          Longitude = core_longitude)
 
 # Specify the folder for saving the combined data
-output_folder <- "Combined"
+output_folder <- "data/Combined"
 
 # Create the output folder if it doesn't exist
 if (!dir.exists(output_folder)) dir.create(output_folder)

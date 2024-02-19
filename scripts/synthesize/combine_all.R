@@ -1,7 +1,7 @@
 library(dplyr)
 library(readr)
-df1 <- read.csv("combined/Maxwell_combined_data.csv")
-df2 <- read.csv("combined/CCN_combined_data.csv")
+df1 <- read.csv("data/combined/Maxwell_combined_data.csv")
+df2 <- read.csv("data/combined/CCN_combined_data.csv")
 
 # make coordinates characters
 df1 <- df1 %>% mutate(Latitude = as.character(Latitude), Longitude = as.character(Longitude))
@@ -33,7 +33,7 @@ df5 <- df4 %>%
   mutate(CN = OC_perc/N_perc, centerdepth = U_depth_m + L_depth_m/2)
 
 # Specify the folder for saving the recategorized data
-output_folder_recategorized <- "Combined"
+output_folder_recategorized <- "data/Combined"
 
 # Create the output folder if it doesn't exist
 if (!dir.exists(output_folder_recategorized)) dir.create(output_folder_recategorized)

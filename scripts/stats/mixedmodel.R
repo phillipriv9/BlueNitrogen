@@ -8,7 +8,7 @@ library(Matrix)
 library(dplyr)
 
 # Specify the path to your CSV file
-csv_file_path <- "combined/AllCombined.csv"
+csv_file_path <- "data/combined/AllCombined.csv"
 
 # Read the CSV file into a data frame
 df1 <- read.csv(csv_file_path)

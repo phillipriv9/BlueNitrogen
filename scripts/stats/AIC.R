@@ -6,7 +6,7 @@ library(dplyr)
 library(lme4)
 library(MuMIn)
 
-df<-read.csv("combined/AllCombined.csv")
+df<-read.csv("data/combined/AllCombined.csv")
 
 df$Latitude <- as.numeric(df$Latitude)
 

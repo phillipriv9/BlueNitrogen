@@ -1,13 +1,11 @@
 ## import data from Rovai et al. 2018
 
-library(dplyr)
 library(magrittr)
+library(dplyr)
 library(tidyverse)
 
 
-input_file01 <- "acrf.csv"
-
-input_data01 <- read.csv(input_file01)
+input_data01 <- read.csv("data/raw_data/acrf.csv")
 
 ##### add informational  
 source_name <- "acrf"
@@ -24,7 +22,7 @@ export_data01 <- input_data01 %>%
 
 ## export
 
-path_out = 'refined/'
+path_out = 'data/refined/'
 
 export_file <- paste(path_out, source_name, ".csv", sep = '') 
 export_df <- export_data01

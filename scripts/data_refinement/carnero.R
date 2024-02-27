@@ -5,11 +5,10 @@ library(magrittr)
 library(tidyverse)
 
 
-input_file01 <- "Ruiz-fernandez.csv"
-
-input_data01 <- read.csv(input_file01)
+input_data01 <- read.csv("data/raw_data/carnero.csv")
 
 ##### add informational  
+#Ask Adam if it's carnero or ruiz-fernandes
 source_name <- "ruiz-fernandes"
 author_initials <- "rf"
 
@@ -24,7 +23,7 @@ export_data01 <- input_data01 %>%
 
 ## export
 
-path_out = 'refined/'
+path_out = 'data/refined/'
 
 export_file <- paste(path_out, source_name, ".csv", sep = '') 
 export_df <- export_data01

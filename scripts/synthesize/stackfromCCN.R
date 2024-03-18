@@ -59,7 +59,7 @@ combined_data2 <- combined_data%>%
          Longitude = core_longitude)
 
 # Specify the folder for saving the combined data
-output_folder <- "data/Combined"
+output_folder <- "data/combined"
 
 # Create the output folder if it doesn't exist
 if (!dir.exists(output_folder)) dir.create(output_folder)

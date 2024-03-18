@@ -1,15 +1,16 @@
 ## import data from Rovai et al. 2018
 
-library(magrittr)
 library(dplyr)
+library(magrittr)
 library(tidyverse)
 
 
-input_data01 <- read.csv("data/raw_data/acrf.csv")
+input_data01 <- read.csv("data/raw_data/carnero.csv")
 
 ##### add informational  
-source_name <- "acrf"
-author_initials <- "acrf"
+#Ask Adam if it's carnero or ruiz-fernandes
+source_name <- "ruiz-fernandes"
+author_initials <- "rf"
 
 
 

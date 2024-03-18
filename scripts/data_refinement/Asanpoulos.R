@@ -1,24 +1,24 @@
-## import data from Rovai et al. 2018
+#Import data from Asanpoulos et al. 2021
 
 library(magrittr)
 library(dplyr)
 library(tidyverse)
 
+input_data01 <- read.csv('data/raw_data/asanopoulos.csv')
 
-input_data01 <- read.csv("data/raw_data/acrf.csv")
+#remove row one
 
-##### add informational  
-source_name <- "acrf"
-author_initials <- "acrf"
+input_data01 <- input_data01[-1,]
 
-
+#### Add informational
+source_name <- "Asanopoulos"
+author_initials <- "ca"
 
 #### export ####
 
 export_data01 <- input_data01 %>% 
   dplyr::select(study_id, site_id, core_id, Habitat_type, Year_collected, 
                 Latitude, Longitude, U_depth_m, L_depth_m, OC_perc, N_perc, BD_reported_g_cm3,DOI)
-
 
 ## export
 

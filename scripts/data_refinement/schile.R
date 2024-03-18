@@ -132,6 +132,6 @@ path_out = 'data/refined/'
 export_file <- paste(path_out, source_name, ".csv", sep = '')
 export_df <- export_data_merged03
 write.csv(export_df, export_file)
-#Not sure if this line would only work if you have access to the dropbox
-savehistory("~/Dropbox (Villanova)/Manuscripts/Blue nitrogen/BlueNProject/Schilescript.Rhistory")
+#Not sure if this line would only work if you have access to these specific files
+savehistory("~/R/Projects/BlueNitrogen/Schilescript.Rhistory")
 

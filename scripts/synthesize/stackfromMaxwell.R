@@ -10,10 +10,10 @@ folder_path <- "data/refined/"
 # Get a list of all CSV files in the folder
 csv_files <- list.files(path = folder_path, pattern = "\\.csv$", full.names = TRUE)
 
-# Read all CSV files into a list of data frames
+# Read all CSV files into a list of data frames and ensuring all categorical varaibles are treated as such
 list_of_dfs <- map(csv_files, ~{
   df <- read.csv(.)
-  columns_to_convert <- c("Latitude", "Longitude", "core_id", "Core")
+  columns_to_convert <- c("Latitude", "Longitude", "core_id", "Core", "Plot")
   for (col in columns_to_convert) {
     if (col %in% colnames(df)) {
       df <- mutate(df, !!col := as.character(!!sym(col)))
@@ -24,6 +24,7 @@ list_of_dfs <- map(csv_files, ~{
 
 # Check the structure of each data frame
 walk(list_of_dfs, ~str(.))
+
 
 # Combine all data frames into one
 combined_data <- bind_rows(list_of_dfs, .id = "file_id")
@@ -41,7 +42,7 @@ combined_data2 <- combined_data1 %>%
 
 
 # Specify the folder for saving the combined data
-output_folder <- "Combined"
+output_folder <- "data/combined"
 
 # Create the output folder if it doesn't exist
 if (!dir.exists(output_folder)) dir.create(output_folder)

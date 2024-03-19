@@ -17,7 +17,7 @@ author_initials <- "ca"
 #### export ####
 
 #Preping for export
-df <- df  %>% 
+df <- input_data01  %>% 
   mutate(Method = "EA", 
          
          study_id = "Asanopouos_et_al_2021", Database="individual" )

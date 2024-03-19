@@ -1,37 +1,29 @@
-#Import data from Asanpoulos et al. 2021
+#read in data from csv in email from Asanopoulos
 
-library(magrittr)
 library(dplyr)
-library(tidyverse)
 
-input_data01 <- read.csv('data/raw_data/asanopoulos.csv')
+df <- read.csv("data/raw_data/Asanopoulos.csv")
 
-#remove row one
 
-input_data01 <- input_data01[-1,]
-
-#### Add informational
-source_name <- "Asanopoulos"
-author_initials <- "ca"
-
-#### export ####
-
-#Preping for export
 df <- df  %>% 
   mutate(Method = "EA", 
-         
+        
          study_id = "Asanopouos_et_al_2021", Database="individual" )
 
 export_data01 <- df %>% 
   dplyr::select(study_id, site_id, core_id, Habitat_type, Year_collected, 
                 Latitude, Longitude, U_depth_m, L_depth_m, OC_perc, N_perc, BD_reported_g_cm3,DOI)
 
+##### add informational  
+source_name <- "Asanopoulos"
+author_initials <- "CA"
 
-## export
 
+#Creating CSV file
 path_out = 'data/refined/'
 
 export_file <- paste(path_out, source_name, ".csv", sep = '') 
 export_df <- export_data01
 
 write.csv(export_df, export_file)
+

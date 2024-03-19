@@ -1,5 +1,12 @@
 #Finalized version with N Merged
 
+# URL for Fell depth series
+csv_url1 <- "https://smithsonian.figshare.com/ndownloader/files/30451638"
+
+# URL for Fell cores
+csv_url2 <- "https://smithsonian.figshare.com/ndownloader/files/30451635"
+
+
 # Function to remove numbers after the last letter in a string
 remove_numbers_after_last_letter <- function(string) {
   sub("[0-9]+$", "", string)
@@ -26,10 +33,10 @@ data3 <-read.csv("data/raw_data/Fell_N.csv")
 
 # Merge the two data frames based on common columns
 data1_2 <- left_join(data1, data2, by = c("study_id", "site_id", "core_id")) %>%
-  mutate(Habitat_type = "mangrove", Latitude = core_latitude,
+  mutate(Habitat_type = "marsh", Latitude = core_latitude,
          Longitude = core_longitude,) 
 
-merged_data <-left_join(data1_2, data3, by = 'core_id')
+merged_data <-left_join(data1_2, data3, by = 'sample_id')
 
 # Save the merged data frame to a CSV file in the working directory
-write.csv(merged_data, "CCN/Fell.merged.csv", row.names = FALSE)
+write.csv(merged_data, "data/CCN/Fell.merged.csv", row.names = FALSE)

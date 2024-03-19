@@ -657,7 +657,7 @@
 "Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.03,0.02,3.546187169,0.230629285,1.496028029,"in_submission","mangrove",15.3761356412305,0.04
 "Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.34,0.33,1.448558653,0.085417418,1.497247793,"in_submission","mangrove",16.9585862803767,0.505
 "Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_PDE_LTMPA01","PDE",NA,NA,"LTMPA01","Mangrove",2021,"18.338861","-91.795917",0.5,0.49,1.993395845,0.113816149,1.498299489,"in_submission","mangrove",17.5141740650529,0.745
-"Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.19,0.18,1.381693626,0.098513709,1.513691682,"in_submission","mangrove",14.025394435205,0.28
+"Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.19,0.18,1.381693626,0.098513709,1.513691682,"in_submission","mangrove",14.0253944352049,0.28
 "Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.4,0.39,0.854036634,0.043345531,1.533620427,"in_submission","mangrove",19.7029916186746,0.595
 "Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.64,0.63,1.187954713,0.057217494,1.541756428,"in_submission","mangrove",20.7620891785299,0.955
 "Maxwell",NA,"jupin_et_al_unpublished","jupin_et_al_unpublished_EV_EVC01","EV",NA,NA,"EVC01","Mangrove",2021,"23.423833","-106.558194",0.36,0.35,0.953801867,0.056186056,1.544749814,"in_submission","mangrove",16.9757753952333,0.535
@@ -736,7 +736,7 @@
 "Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_1","S50","S50",NA,"1","Marsh",2016,"29.946667","93.400833",0.1,0.15,9.9,0.672,0.379,NA,"marsh",14.7321428571429,0.175
 "Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_1","S50","S50",NA,"1","Marsh",2016,"29.946667","93.400833",0.15,0.2,5.29,0.364,0.763,NA,"marsh",14.532967032967,0.25
 "Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_1","S50","S50",NA,"1","Marsh",2016,"29.946667","93.400833",0.2,0.25,2.78,0.206,0.907,NA,"marsh",13.495145631068,0.325
-"Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_1","S50","S50",NA,"1","Marsh",2016,"29.946667","93.400833",0.25,0.3,2.58,0.179,0.945,NA,"marsh",14.413407821229,0.4
+"Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_1","S50","S50",NA,"1","Marsh",2016,"29.946667","93.400833",0.25,0.3,2.58,0.179,0.945,NA,"marsh",14.4134078212291,0.4
 "Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_2","S50","S50",NA,"2","Marsh",2016,"29.946667","93.400833",0,0.05,10.49,0.692,0.244,NA,"marsh",15.1589595375723,0.025
 "Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_2","S50","S50",NA,"2","Marsh",2016,"29.946667","93.400833",0.05,0.1,16.42,1.06,0.212,NA,"marsh",15.4905660377358,0.1
 "Maxwell","McClellan_et_al_2021","MCClellan_et_al_2021","MCClellan_et_al_2021_S50_2","S50","S50",NA,"2","Marsh",2016,"29.946667","93.400833",0.1,0.15,13.03,0.754,0.407,NA,"marsh",17.2811671087533,0.175
@@ -1203,7 +1203,7 @@
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.03,0.04,9.61,0.7,0.44,"https://doi.org/10.7489/12422-1","marsh",13.7285714285714,0.05
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.04,0.05,5.497,0.395,0.55,"https://doi.org/10.7489/12422-1","marsh",13.9164556962025,0.065
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.05,0.06,2.729,0.128,0.91,"https://doi.org/10.7489/12422-1","marsh",21.3203125,0.08
-"Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.06,0.07,1.64,0.076,0.97,"https://doi.org/10.7489/12422-1","marsh",21.578947368421,0.095
+"Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.06,0.07,1.64,0.076,0.97,"https://doi.org/10.7489/12422-1","marsh",21.5789473684211,0.095
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.07,0.08,6.214,0.318,0.63,"https://doi.org/10.7489/12422-1","marsh",19.5408805031447,0.11
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.08,0.09,4.688,0.277,0.68,"https://doi.org/10.7489/12422-1","marsh",16.9241877256318,0.125
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_Low-Mid_Wig2003A","Wigtown_Low-Mid",NA,NA,"Wig2003A","Salt marsh",2020,"54.87215577","-4.42472976",0.09,0.1,4.44,0.293,0.57,"https://doi.org/10.7489/12422-1","marsh",15.1535836177474,0.14
@@ -1264,7 +1264,7 @@
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.37,0.38,4.172,0.348,0.81,"https://doi.org/10.7489/12422-1","marsh",11.9885057471264,0.56
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.39,0.4,3.005,0.303,0.99,"https://doi.org/10.7489/12422-1","marsh",9.91749174917492,0.59
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.41,0.42,2.832,0.227,0.95,"https://doi.org/10.7489/12422-1","marsh",12.4757709251101,0.62
-"Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.43,0.44,3.324,0.228,0.95,"https://doi.org/10.7489/12422-1","marsh",14.578947368421,0.65
+"Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.43,0.44,3.324,0.228,0.95,"https://doi.org/10.7489/12422-1","marsh",14.5789473684211,0.65
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.45,0.46,2.841,0.203,1.08,"https://doi.org/10.7489/12422-1","marsh",13.9950738916256,0.68
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.47,0.48,2.237,0.197,0.77,"https://doi.org/10.7489/12422-1","marsh",11.3553299492386,0.71
 "Maxwell",NA,"Miller_et_al_2022","Miller_et_al_2022_Wigtown_High_Wig2009A","Wigtown_High",NA,NA,"Wig2009A","Salt marsh",2020,"54.8708259","-4.43093533",0.49,0.5,2.322,0.19,0.84,"https://doi.org/10.7489/12422-1","marsh",12.2210526315789,0.74
@@ -2019,7 +2019,7 @@
 "Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_3","sabkha_moon","sabkha_moon",3,"3","low sabkha",2013,"24.123734","54.04958",0,0.15,1.05,0.047,1.459,"https://doi.org/10.15146/R3K59Z","mudflat",22.3404255319149,0.075
 "Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_3","sabkha_moon","sabkha_moon",3,"3","low sabkha",2013,"24.123734","54.04958",0.15,0.3,3.55,0.167,1.235,"https://doi.org/10.15146/R3K59Z","mudflat",21.2574850299401,0.3
 "Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_3","sabkha_moon","sabkha_moon",3,"3","low sabkha",2013,"24.123734","54.04958",0.35,0.45,1.43,0.1,1.497,"https://doi.org/10.15146/R3K59Z","mudflat",14.3,0.575
-"Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_4","sabkha_moon","sabkha_moon",4,"4","low sabkha",2013,"24.123909","54.049516",0,0.1,1.62,0.057,1.39,"https://doi.org/10.15146/R3K59Z","mudflat",28.421052631579,0.05
+"Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_4","sabkha_moon","sabkha_moon",4,"4","low sabkha",2013,"24.123909","54.049516",0,0.1,1.62,0.057,1.39,"https://doi.org/10.15146/R3K59Z","mudflat",28.4210526315789,0.05
 "Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_4","sabkha_moon","sabkha_moon",4,"4","low sabkha",2013,"24.123909","54.049516",0.1,0.15,2.43,0.162,1.23,"https://doi.org/10.15146/R3K59Z","mudflat",15,0.175
 "Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_4","sabkha_moon","sabkha_moon",4,"4","low sabkha",2013,"24.123909","54.049516",0.15,0.3,3.77,0.238,1.054,"https://doi.org/10.15146/R3K59Z","mudflat",15.8403361344538,0.3
 "Maxwell","Schile et al 2016","Schile_et_al_2016","Schile_et_al_2016_sabkha_moon_4","sabkha_moon","sabkha_moon",4,"4","low sabkha",2013,"24.123909","54.049516",0.3,0.38,3.65,0.284,0.961,"https://doi.org/10.15146/R3K59Z","mudflat",12.8521126760563,0.49
@@ -2812,7 +2812,7 @@
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.44,0.45,1.74,0.22,0.663641154,NA,"marsh",7.90909090909091,0.665
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.46,0.47,1.49,0.15,0.681258046,NA,"marsh",9.93333333333333,0.695
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.48,0.49,1.2,0.17,0.794535262,NA,"marsh",7.05882352941176,0.725
-"Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.5,0.51,1.33,0.17,0.836626936,NA,"marsh",7.8235294117647,0.755
+"Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.5,0.51,1.33,0.17,0.836626936,NA,"marsh",7.82352941176471,0.755
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.52,0.53,1.96,0.17,0.928315413,NA,"marsh",11.5294117647059,0.785
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.54,0.55,1.55,0.19,0.910507533,NA,"marsh",8.15789473684211,0.815
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS AM-2_AM-2","CS AM-2",NA,NA,"AM-2","Saltmarsh",2020,"50.302499","-3.8534851",0.56,0.57,1.71,0.17,1.019844734,NA,"marsh",10.0588235294118,0.845
@@ -3253,7 +3253,7 @@
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.01,0.02,7.17,0.49,0.438536818,NA,"marsh",14.6326530612245,0.02
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.02,0.03,6.2,0.56,0.355693924,NA,"marsh",11.0714285714286,0.035
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.03,0.04,5.78,0.52,0.301004103,NA,"marsh",11.1153846153846,0.05
-"Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.04,0.05,6.73,0.59,0.286308623,NA,"marsh",11.406779661017,0.065
+"Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.04,0.05,6.73,0.59,0.286308623,NA,"marsh",11.4067796610169,0.065
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.05,0.06,5.77,0.49,0.282591427,NA,"marsh",11.7755102040816,0.08
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.06,0.07,4.98,0.5,0.320134753,NA,"marsh",9.96,0.095
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS SM-7_SM-7","CS SM-7",NA,NA,"SM-7","Saltmarsh",2019,"52.96482","0.92248266",0.07,0.08,6.25,0.41,0.270576855,NA,"marsh",15.2439024390244,0.11
@@ -3364,7 +3364,7 @@
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.18,0.19,4.02,0.37,0.916427585,NA,"marsh",10.8648648648649,0.275
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.19,0.2,4.32,0.36,0.873924131,NA,"marsh",12,0.29
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.2,0.21,2.83,0.3,0.990808628,NA,"marsh",9.43333333333333,0.305
-"Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.22,0.23,2.77,0.33,1.259873198,NA,"marsh",8.3939393939394,0.335
+"Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.22,0.23,2.77,0.33,1.259873198,NA,"marsh",8.39393939393939,0.335
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.24,0.25,2.93,0.25,1.224577622,NA,"marsh",11.72,0.365
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.26,0.27,2,0.29,1.23874544,NA,"marsh",6.89655172413793,0.395
 "Maxwell",NA,"Smeaton_et_al","Smeaton_et_al_CS LR-19-06_LR-19-06","CS LR-19-06",NA,NA,"LR-19-06","Saltmarsh",2019,"51.615751","-4.1692587",0.28,0.29,2.32,0.2,0.845588496,NA,"marsh",11.6,0.425
@@ -3494,7 +3494,7 @@
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.19,0.2,5.253995895,0.393273175,0.30609186,"https://doi.org/10.1038/s41558-018-0162-5","marsh",13.359659974266,0.29
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.24,0.25,1.083516479,0.099027455,0.719909742,"https://doi.org/10.1038/s41558-018-0162-5","marsh",10.9415765456156,0.365
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.29,0.3,2.910282373,0.247183293,0.343147488,"https://doi.org/10.1038/s41558-018-0162-5","marsh",11.7737826763235,0.44
-"Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.34,0.35,14.15620327,0.829227865,0.21417968,"https://doi.org/10.1038/s41558-018-0162-5","marsh",17.071547963478,0.515
+"Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.34,0.35,14.15620327,0.829227865,0.21417968,"https://doi.org/10.1038/s41558-018-0162-5","marsh",17.0715479634781,0.515
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.39,0.4,7.186608315,0.500688076,0.386728092,"https://doi.org/10.1038/s41558-018-0162-5","marsh",14.353464081697,0.59
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.44,0.45,9.366684914,0.571120143,0.479374468,"https://doi.org/10.1038/s41558-018-0162-5","marsh",16.4005507926902,0.665
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Maine_1","Maine",NA,NA,"1","Salt marsh",2014,"43.76333","-69.77065",0.49,0.5,0.410126507,0.042820513,1.60150227,"https://doi.org/10.1038/s41558-018-0162-5","marsh",9.57780461434453,0.74
@@ -3579,7 +3579,7 @@
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.14,0.15,14.5756712,0.998571634,0.261426398,"https://doi.org/10.1038/s41558-018-0162-5","marsh",14.5965203734197,0.215
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.19,0.2,4.345289707,0.353713989,0.467507998,"https://doi.org/10.1038/s41558-018-0162-5","marsh",12.2847550341019,0.29
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.24,0.25,5.242477417,0.537195027,0.57639315,"https://doi.org/10.1038/s41558-018-0162-5","marsh",9.758983522757,0.365
-"Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.29,0.3,3.621870995,0.388713598,0.656313449,"https://doi.org/10.1038/s41558-018-0162-5","marsh",9.3175824402212,0.44
+"Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.29,0.3,3.621870995,0.388713598,0.656313449,"https://doi.org/10.1038/s41558-018-0162-5","marsh",9.31758244022119,0.44
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.34,0.35,5.10970211,0.503093302,0.476493689,"https://doi.org/10.1038/s41558-018-0162-5","marsh",10.1565695462191,0.515
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.39,0.4,7.937234402,0.697759986,0.361344122,"https://doi.org/10.1038/s41558-018-0162-5","marsh",11.3753075000778,0.59
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Massachussettes_8","Massachussettes",NA,NA,"8","Salt marsh",2014,"42.73282","-70.81929",0.44,0.45,10.1538105,0.920762777,0.349249966,"https://doi.org/10.1038/s41558-018-0162-5","marsh",11.0276074941722,0.665
@@ -3668,7 +3668,7 @@
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.49,0.5,5.186342716,0.336552352,0.586856976,"https://doi.org/10.1038/s41558-018-0162-5","marsh",15.4102108785738,0.74
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.54,0.56,3.05934453,0.260723352,0.616606555,"https://doi.org/10.1038/s41558-018-0162-5","marsh",11.7340641201943,0.82
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.6,0.62,5.013919353,0.372538686,0.567271699,"https://doi.org/10.1038/s41558-018-0162-5","marsh",13.4587884196274,0.91
-"Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.66,0.68,3.73837781,0.383955002,0.579843753,"https://doi.org/10.1038/s41558-018-0162-5","marsh",9.7364998255707,1
+"Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.66,0.68,3.73837781,0.383955002,0.579843753,"https://doi.org/10.1038/s41558-018-0162-5","marsh",9.73649982557071,1
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.72,0.74,6.462213516,0.435801506,0.369262002,"https://doi.org/10.1038/s41558-018-0162-5","marsh",14.8283414055022,1.09
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_1","Connecticut",NA,NA,"1","Salt marsh",2014,"41.30016","-72.35656",0.78,0.8,8.078022003,0.499208122,0.343035471,"https://doi.org/10.1038/s41558-018-0162-5","marsh",16.1816718258442,1.18
 "Maxwell",NA,"Weston et al 2023","Weston et al 2023_Connecticut_2","Connecticut",NA,NA,"2","Salt marsh",2014,"41.30024","-72.35692",0,0.01,6.518277645,0.562559009,0.228508084,"https://doi.org/10.1038/s41558-018-0162-5","marsh",11.586833631172,0.005
@@ -4294,7 +4294,7 @@
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"23.9167","117.45",0.2,0.3,2.269,0.15,0.66,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",15.1266666666667,0.35
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"23.9167","117.45",0.3,0.4,1.819,0.132,0.74,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",13.780303030303,0.5
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"20.9167","110.25",0,0.1,1.788,0.192,0.71,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",9.3125,0.05
-"Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"20.9167","110.25",0.1,0.2,1.724,0.183,0.71,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",9.4207650273224,0.2
+"Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"20.9167","110.25",0.1,0.2,1.724,0.183,0.71,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",9.42076502732241,0.2
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"20.9167","110.25",0.2,0.3,1.783,0.185,0.54,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",9.63783783783784,0.35
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"20.9167","110.25",0.3,0.4,1.685,0.18,0.75,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",9.36111111111111,0.5
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 1_1","SX 1",NA,NA,"1","Mangrove",2015,"21.4667","109.4667",0,0.1,1.061,0.12,1.23,"https://doi.org/10.6084/m9.figshare.20180450.v1","mangrove",8.84166666666667,0.05
@@ -4649,7 +4649,7 @@
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0,0.1,0.796,0.087,1.4,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",9.14942528735632,0.05
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.1,0.2,0.459,0.066,1.55,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",6.95454545454545,0.2
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.2,0.3,0.479,0.055,1.72,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",8.70909090909091,0.35
-"Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.3,0.4,0.446,0.059,1.74,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",7.5593220338983,0.5
+"Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.3,0.4,0.446,0.059,1.74,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",7.55932203389831,0.5
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.4,0.6,0.438,0.051,1.67,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",8.58823529411765,0.7
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.6,0.8,0.37,0.048,1.69,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",7.70833333333333,1
 "Maxwell","Xia et al 2022","Xia et al 2022","Xia et al 2022_SX 8_8","SX 8",NA,NA,"8","Saltmarsh",2015,"38.7511","117.4513",0.8,1,0.39,0.051,1.68,"https://doi.org/10.6084/m9.figshare.20180450.v1","marsh",7.64705882352941,1.3
@@ -4707,7 +4707,7 @@
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.1,0.11,16.6705922805287,1.08721361414333,0.406838486377135,NA,"mangrove",15.3333181848208,0.155
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.12,0.13,15.5366356568383,1.03389348471007,0.540783286483275,NA,"mangrove",15.0273078287123,0.185
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.15,0.16,15.5167280491393,0.992203549544603,0.563319626425087,NA,"mangrove",15.6386540405556,0.23
-"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.19,0.2,15.5876966851159,0.997256191936198,0.658939916234698,NA,"mangrove",15.6305840075578,0.29
+"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.19,0.2,15.5876966851159,0.997256191936199,0.658939916234698,NA,"mangrove",15.6305840075578,0.29
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.24,0.25,14.6892710660495,0.959959533815394,0.971647548421654,NA,"mangrove",15.3019690399516,0.365
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.29,0.3,15.187368673966,0.999839031580402,0.719673442518565,NA,"mangrove",15.18981375428,0.44
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-MyB_Phragmites","US-MyB",NA,NA,"Phragmites","mangrove",NA,"38.049901","-121.765744",0.34,0.35,15.7952025492963,1.00197593150041,0.746156825049056,NA,"mangrove",15.7640538587027,0.515
@@ -4757,17 +4757,17 @@
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.44,0.45,17.63006727835,1.21389508809139,0.571799160394225,NA,"mangrove",14.5235510476196,0.665
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.49,0.5,17.1665277923814,1.18351597077994,0.5850482711615,NA,"mangrove",14.5046862198814,0.74
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.54,0.55,19.0753291665316,1.23794206654492,0.518802717325124,NA,"mangrove",15.408902954377,0.815
-"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.59,0.6,17.0658641312308,1.22597107613542,0.5356953335534,NA,"mangrove",13.9202828381782,0.89
+"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.59,0.6,17.0658641312308,1.22597107613542,0.535695333553399,NA,"mangrove",13.9202828381782,0.89
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.64,0.65,23.1776492718389,1.47281076505677,0.457856807795657,NA,"mangrove",15.7370178313067,0.965
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.69,0.7,23.0861801128197,1.39299310378613,0.496610456789937,NA,"mangrove",16.573075667117,1.04
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.74,0.75,31.0236262873106,1.6374204812778,0.367100399039821,NA,"mangrove",18.9466460460422,1.115
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W1","US-Tw1",NA,NA,"Typha W1","mangrove",NA,"38.107379","-121.647138",0.79,0.8,38.2802620663221,1.70150665526979,0.269719434900347,NA,"mangrove",22.4978620846196,1.19
-"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0,0.02,39.6411893538008,1.98030573720401,0.0906408102643918,NA,"mangrove",20.0177117144397,0.01
+"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0,0.02,39.6411893538009,1.98030573720401,0.0906408102643918,NA,"mangrove",20.0177117144397,0.01
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.04,0.06,45.6355156371107,1.98170856464535,0.0558618945002939,NA,"mangrove",23.028368777968,0.07
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.08,0.1,44.727935691878,1.9365349213923,0.032841564542153,NA,"mangrove",23.0968908423919,0.13
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.12,0.14,46.0923172437509,2.13211539402128,0.0606646971534313,NA,"mangrove",21.6181156859519,0.19
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.16,0.18,39.0414027680616,1.9589260061047,0.0795446799967987,NA,"mangrove",19.9300038114737,0.25
-"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.2,0.22,18.9706442738604,1.2001121494827,0.374503008453267,NA,"mangrove",15.8073929024363,0.31
+"CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.2,0.22,18.9706442738604,1.2001121494827,0.374503008453266,NA,"mangrove",15.8073929024363,0.31
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.24,0.26,19.0859657414282,1.16690667092514,0.562805995233168,NA,"mangrove",16.3560344772874,0.37
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.28,0.3,18.2160656357382,1.12089198145166,0.49473868866629,NA,"mangrove",16.2514015062778,0.43
 "CCN",NA,"Arias-Ortiz_et_al_2021","Arias-Ortiz_et_al_2021_US-Tw1_Typha W2","US-Tw1",NA,NA,"Typha W2","mangrove",NA,"38.10736","-121.647339",0.34,0.36,18.3105452482385,1.17839151287359,0.602056485881221,NA,"mangrove",15.5385922659838,0.52
@@ -4960,7 +4960,7 @@
 "CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-PWA1","ELM1812",NA,NA,"ELM1812-PWA1","marsh",NA,"37.615583","-122.11405",0.3,0.31,1.16533333333333,0.0746666666666667,1.16,NA,"marsh",15.6071428571428,0.455
 "CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-PWA1","ELM1812",NA,NA,"ELM1812-PWA1","marsh",NA,"37.615583","-122.11405",0.31,0.32,1.11,0.0733333333333333,1.1689,NA,"marsh",15.1363636363636,0.47
 "CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-SPA2","ELM1812",NA,NA,"ELM1812-SPA2","marsh",NA,"37.615667","-122.113967",0,0.01,4.23733333333333,0.469666666666667,0.4913,NA,"marsh",9.0220014194464,0.005
-"CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-SPA2","ELM1812",NA,NA,"ELM1812-SPA2","marsh",NA,"37.615667","-122.113967",0.01,0.02,2.28433333333333,0.301,0.4564,NA,"marsh",7.5891472868217,0.02
+"CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-SPA2","ELM1812",NA,NA,"ELM1812-SPA2","marsh",NA,"37.615667","-122.113967",0.01,0.02,2.28433333333333,0.301,0.4564,NA,"marsh",7.58914728682169,0.02
 "CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-SPA2","ELM1812",NA,NA,"ELM1812-SPA2","marsh",NA,"37.615667","-122.113967",0.02,0.03,2.07166666666667,0.29,0.5085,NA,"marsh",7.14367816091955,0.035
 "CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-SPA2","ELM1812",NA,NA,"ELM1812-SPA2","marsh",NA,"37.615667","-122.113967",0.03,0.04,2.082,0.259666666666667,0.5338,NA,"marsh",8.01797175866495,0.05
 "CCN",NA,"Carlin_et_al_2021","Carlin_et_al_2021_ELM1812_ELM1812-SPA2","ELM1812",NA,NA,"ELM1812-SPA2","marsh",NA,"37.615667","-122.113967",0.04,0.05,1.81533333333333,0.25,0.5067,NA,"marsh",7.26133333333332,0.065
@@ -5021,7 +5021,7 @@
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.25,0.3,37.853,1.142,0.2933,NA,"mangrove",33.146234676007,0.4
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.3,0.35,39.17,1.5072,0.2038,NA,"mangrove",25.9885881104034,0.475
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.35,0.4,30.75,1.32,0.1787,NA,"mangrove",23.2954545454545,0.55
-"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.4,0.45,26.709,1.19,0.2077,NA,"mangrove",22.444537815126,0.625
+"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.4,0.45,26.709,1.19,0.2077,NA,"mangrove",22.4445378151261,0.625
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.45,0.5,26.0464,1.0809,0.1668,NA,"mangrove",24.0969562401702,0.7
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_3_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_3_mangrove","mangrove",NA,"17.691509","-88.116355",0.725,0.775,5.6019,0.3542,0.4344,NA,"mangrove",15.8156408808583,1.1125
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Hicks Caye_Hicks Caye_1_4_mangrove","Hicks Caye",NA,NA,"Hicks Caye_1_4_mangrove","mangrove",NA,"17.691458","-88.116596",0,0.05,28.3256,1.3752,0.2216,NA,"mangrove",20.5974403723095,0.025
@@ -5517,7 +5517,7 @@
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.1,0.15,4.9691,0.2771,0.77,NA,"mangrove",17.9325153374233,0.175
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.15,0.2,3.2654,0.1362,1.0433,NA,"mangrove",23.9750367107195,0.25
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.2,0.25,1.6785,0.058,1.2078,NA,"mangrove",28.9396551724138,0.325
-"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.25,0.3,30.5312,0.7379,1.4015,NA,"mangrove",41.375796178344,0.4
+"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.25,0.3,30.5312,0.7379,1.4015,NA,"mangrove",41.3757961783439,0.4
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.3,0.35,1.3894,0,1.2945,NA,"mangrove",Inf,0.475
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.35,0.4,1.9028,0,1.2181,NA,"mangrove",Inf,0.55
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Gra Gra Lagoon_Gra Gra Lagoon_1_5_mangrove","Gra Gra Lagoon",NA,NA,"Gra Gra Lagoon_1_5_mangrove","mangrove",NA,"16.935931","-88.245217",0.4,0.45,3.2445,0,1.6823,NA,"mangrove",Inf,0.625
@@ -5810,7 +5810,7 @@
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_4_mangrove","Big Creek",NA,NA,"Big Creek_1_4_mangrove","mangrove",NA,"16.507177","-88.402589",0.725,0.775,17.8065,0.6294,0.1834,NA,"mangrove",28.291229742612,1.1125
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_4_mangrove","Big Creek",NA,NA,"Big Creek_1_4_mangrove","mangrove",NA,"16.507177","-88.402589",1.04,1.09,3.812,0.204,0.4908,NA,"mangrove",18.6862745098039,1.585
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_5_mangrove","Big Creek",NA,NA,"Big Creek_1_5_mangrove","mangrove",NA,"16.507134","-88.402815",0,0.05,29.833,0.935,0.2315,NA,"mangrove",31.9069518716577,0.025
-"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_5_mangrove","Big Creek",NA,NA,"Big Creek_1_5_mangrove","mangrove",NA,"16.507134","-88.402815",0.05,0.1,23.951,0.583,0.2825,NA,"mangrove",41.082332761578,0.1
+"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_5_mangrove","Big Creek",NA,NA,"Big Creek_1_5_mangrove","mangrove",NA,"16.507134","-88.402815",0.05,0.1,23.951,0.583,0.2825,NA,"mangrove",41.0823327615781,0.1
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_5_mangrove","Big Creek",NA,NA,"Big Creek_1_5_mangrove","mangrove",NA,"16.507134","-88.402815",0.1,0.15,20.674,0.493,0.2285,NA,"mangrove",41.9350912778905,0.175
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_5_mangrove","Big Creek",NA,NA,"Big Creek_1_5_mangrove","mangrove",NA,"16.507134","-88.402815",0.15,0.2,19.155,0.548,0.2133,NA,"mangrove",34.9543795620438,0.25
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Big Creek_Big Creek_1_5_mangrove","Big Creek",NA,NA,"Big Creek_1_5_mangrove","mangrove",NA,"16.507134","-88.402815",0.2,0.25,17.304,0.628,0.2013,NA,"mangrove",27.5541401273885,0.325
@@ -6056,7 +6056,7 @@
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",0.3,0.35,25.8684,0.7394,0.2375,NA,"mangrove",34.985664051934,0.475
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",0.35,0.4,21.9924,0.6322,0.205,NA,"mangrove",34.787092692186,0.55
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",0.4,0.45,17.8684,0.4789,0.2218,NA,"mangrove",37.3113384840259,0.625
-"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",0.45,0.5,19.805,0.6154,0.2207,NA,"mangrove",32.182320441989,0.7
+"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",0.45,0.5,19.805,0.6154,0.2207,NA,"mangrove",32.1823204419889,0.7
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",0.72,0.77,23.158,0.602,0.2825,NA,"mangrove",38.468438538206,1.105
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",1.22,1.27,5.073,0.268,0.6668,NA,"mangrove",18.9291044776119,1.855
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Payne's Creek_Payne's Creek_2_6_mangrove","Payne's Creek",NA,NA,"Payne's Creek_2_6_mangrove","mangrove",NA,"16.289436","-88.591477",1.72,1.77,3.925,0.186,0.7349,NA,"mangrove",21.1021505376344,2.605
@@ -6227,7 +6227,7 @@
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",0.3,0.35,35.442,1.206,0.1761,NA,"mangrove",29.3880597014925,0.475
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",0.35,0.4,33.103,1.047,0.1594,NA,"mangrove",31.6170009551098,0.55
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",0.4,0.45,31.262,1.06,0.1596,NA,"mangrove",29.4924528301887,0.625
-"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",0.45,0.5,32.312,1.037,0.1613,NA,"mangrove",31.159112825458,0.7
+"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",0.45,0.5,32.312,1.037,0.1613,NA,"mangrove",31.1591128254581,0.7
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",0.725,0.775,28.362,0.827,0.1459,NA,"mangrove",34.2950423216445,1.1125
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",1.225,1.275,26.602,0.855,0.1293,NA,"mangrove",31.1134502923977,1.8625
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_3_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_3_mangrove","mangrove",NA,"17.28742","-87.81583",1.57,1.62,1.71,0.129,0.7989,NA,"mangrove",13.2558139534884,2.38
@@ -6239,7 +6239,7 @@
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.25,0.3,32.568,1.224,0.1567,NA,"mangrove",26.6078431372549,0.4
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.3,0.35,26.965,0.846,0.113,NA,"mangrove",31.8735224586288,0.475
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.35,0.4,25.713,0.794,0.1139,NA,"mangrove",32.3841309823678,0.55
-"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.4,0.45,29.416,0.853,0.1055,NA,"mangrove",34.485345838218,0.625
+"CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.4,0.45,29.416,0.853,0.1055,NA,"mangrove",34.4853458382181,0.625
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.45,0.5,28.968,0.821,0.1488,NA,"mangrove",35.2838002436054,0.7
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",0.725,0.775,28.59,1.174,0.1393,NA,"mangrove",24.3526405451448,1.1125
 "CCN",NA,"Morrissette_et_al_2023","Morrissette_et_al_2023_Turneffe Atoll_Turneffe Atoll_1_4_mangrove","Turneffe Atoll",NA,NA,"Turneffe Atoll_1_4_mangrove","mangrove",NA,"17.28723","-87.8256",1.225,1.275,27.207,0.735,0.1371,NA,"mangrove",37.0163265306122,1.8625
@@ -6454,7 +6454,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.08,0.1,13.0952,1.2108,0.1523,NA,"marsh",10.815328708292,0.13
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.1,0.12,16.4143,1.245,0.1372,NA,"marsh",13.1841767068273,0.16
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.12,0.14,13.6385,1.0292,0.1448,NA,"marsh",13.2515546055189,0.19
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.14,0.16,13.8821,1.3532,0.1353,NA,"marsh",10.258720070943,0.22
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.14,0.16,13.8821,1.3532,0.1353,NA,"marsh",10.2587200709429,0.22
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.16,0.18,15.6079,1.1977,0.125,NA,"marsh",13.031560490941,0.25
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.18,0.2,15.8763,1.2775,0.1393,NA,"marsh",12.4276320939335,0.28
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.2,0.22,14.9471,1.2105,0.173,NA,"marsh",12.347872779843,0.31
@@ -6721,7 +6721,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0164_H_0164_H_2","CRMS0164_H",NA,NA,"0164_H_2","saltmarsh",NA,"29.22375","-90.11115",0.38,0.4,12.8831,0.683,0.2556,NA,"marsh",18.8625183016105,0.58
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0164_H_0164_H_2","CRMS0164_H",NA,NA,"0164_H_2","saltmarsh",NA,"29.22375","-90.11115",0.4,0.42,19.6884,0.9713,0.221,NA,"marsh",20.2701534026562,0.61
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0164_H_0164_H_2","CRMS0164_H",NA,NA,"0164_H_2","saltmarsh",NA,"29.22375","-90.11115",0.42,0.44,19.6489,0.8951,0.1918,NA,"marsh",21.951625516702,0.64
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0,0.02,30.9014,1.6612,0.0787,NA,"marsh",18.601854081387,0.01
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0,0.02,30.9014,1.6612,0.0787,NA,"marsh",18.6018540813869,0.01
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0.02,0.04,29.7607,1.8097,0.1068,NA,"marsh",16.4451013980218,0.04
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0.04,0.06,31.2823,1.9828,0.085,NA,"marsh",15.7768307444019,0.07
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0.06,0.08,33.7951,2.2506,0.0936,NA,"marsh",15.0160401670666,0.1
@@ -6982,7 +6982,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.12,0.14,10.9192,0.772,0.2573,NA,"marsh",14.1440414507772,0.19
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.14,0.16,7.8335,0.5039,0.3407,NA,"marsh",15.5457432030165,0.22
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.16,0.18,10.5428,0.657,0.2068,NA,"marsh",16.0468797564688,0.25
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.18,0.2,11.9491,0.7994,0.189,NA,"marsh",14.947585689267,0.28
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.18,0.2,11.9491,0.7994,0.189,NA,"marsh",14.9475856892669,0.28
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.2,0.22,13.6009,0.7723,0.1846,NA,"marsh",17.6109024990289,0.31
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.22,0.24,6.5156,0.3948,0.3411,NA,"marsh",16.5035460992908,0.34
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.24,0.26,3.631,0.2512,0.4502,NA,"marsh",14.4546178343949,0.37
@@ -7044,7 +7044,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.18,0.2,3.2415,0.2491,0.6953,NA,"marsh",13.0128462464874,0.28
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.2,0.22,2.4351,0.1921,0.8884,NA,"marsh",12.6762103071317,0.31
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.22,0.24,2.1989,0.1833,0.8837,NA,"marsh",11.9961811238407,0.34
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.24,0.26,1.1342,0.1267,1.1978,NA,"marsh",8.9518547750592,0.37
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.24,0.26,1.1342,0.1267,1.1978,NA,"marsh",8.95185477505919,0.37
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.26,0.28,0.7803,0.1069,1.2929,NA,"marsh",7.29934518241347,0.4
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.28,0.3,0.5573,0,1.2774,NA,"marsh",Inf,0.43
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.3,0.32,0.3568,0,1.3931,NA,"marsh",Inf,0.46
@@ -7328,7 +7328,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.08,0.1,13.0952,1.2108,0.1523,NA,"marsh",10.815328708292,0.13
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.1,0.12,16.4143,1.245,0.1372,NA,"marsh",13.1841767068273,0.16
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.12,0.14,13.6385,1.0292,0.1448,NA,"marsh",13.2515546055189,0.19
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.14,0.16,13.8821,1.3532,0.1353,NA,"marsh",10.258720070943,0.22
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.14,0.16,13.8821,1.3532,0.1353,NA,"marsh",10.2587200709429,0.22
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.16,0.18,15.6079,1.1977,0.125,NA,"marsh",13.031560490941,0.25
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.18,0.2,15.8763,1.2775,0.1393,NA,"marsh",12.4276320939335,0.28
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0135_0135_1","CRMS0135",NA,NA,"0135_1","saltmarsh",NA,"29.68655","-89.760467",0.2,0.22,14.9471,1.2105,0.173,NA,"marsh",12.347872779843,0.31
@@ -7595,7 +7595,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0164_H_0164_H_2","CRMS0164_H",NA,NA,"0164_H_2","saltmarsh",NA,"29.22375","-90.11115",0.38,0.4,12.8831,0.683,0.2556,NA,"marsh",18.8625183016105,0.58
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0164_H_0164_H_2","CRMS0164_H",NA,NA,"0164_H_2","saltmarsh",NA,"29.22375","-90.11115",0.4,0.42,19.6884,0.9713,0.221,NA,"marsh",20.2701534026562,0.61
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0164_H_0164_H_2","CRMS0164_H",NA,NA,"0164_H_2","saltmarsh",NA,"29.22375","-90.11115",0.42,0.44,19.6489,0.8951,0.1918,NA,"marsh",21.951625516702,0.64
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0,0.02,30.9014,1.6612,0.0787,NA,"marsh",18.601854081387,0.01
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0,0.02,30.9014,1.6612,0.0787,NA,"marsh",18.6018540813869,0.01
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0.02,0.04,29.7607,1.8097,0.1068,NA,"marsh",16.4451013980218,0.04
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0.04,0.06,31.2823,1.9828,0.085,NA,"marsh",15.7768307444019,0.07
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0294_0294_2","CRMS0294",NA,NA,"0294_2","saltmarsh",NA,"29.41928","-90.94902",0.06,0.08,33.7951,2.2506,0.0936,NA,"marsh",15.0160401670666,0.1
@@ -7856,7 +7856,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.12,0.14,10.9192,0.772,0.2573,NA,"marsh",14.1440414507772,0.19
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.14,0.16,7.8335,0.5039,0.3407,NA,"marsh",15.5457432030165,0.22
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.16,0.18,10.5428,0.657,0.2068,NA,"marsh",16.0468797564688,0.25
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.18,0.2,11.9491,0.7994,0.189,NA,"marsh",14.947585689267,0.28
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.18,0.2,11.9491,0.7994,0.189,NA,"marsh",14.9475856892669,0.28
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.2,0.22,13.6009,0.7723,0.1846,NA,"marsh",17.6109024990289,0.31
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.22,0.24,6.5156,0.3948,0.3411,NA,"marsh",16.5035460992908,0.34
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0610_H_0610_H_1","CRMS0610_H",NA,NA,"0610_H_1","saltmarsh",NA,"29.615303","-92.614936",0.24,0.26,3.631,0.2512,0.4502,NA,"marsh",14.4546178343949,0.37
@@ -7918,7 +7918,7 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.18,0.2,3.2415,0.2491,0.6953,NA,"marsh",13.0128462464874,0.28
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.2,0.22,2.4351,0.1921,0.8884,NA,"marsh",12.6762103071317,0.31
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.22,0.24,2.1989,0.1833,0.8837,NA,"marsh",11.9961811238407,0.34
-"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.24,0.26,1.1342,0.1267,1.1978,NA,"marsh",8.9518547750592,0.37
+"CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.24,0.26,1.1342,0.1267,1.1978,NA,"marsh",8.95185477505919,0.37
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.26,0.28,0.7803,0.1069,1.2929,NA,"marsh",7.29934518241347,0.4
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.28,0.3,0.5573,0,1.2774,NA,"marsh",Inf,0.43
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS0651_0651_2","CRMS0651",NA,NA,"0651_2","saltmarsh",NA,"29.96235","-93.510567",0.3,0.32,0.3568,0,1.3931,NA,"marsh",Inf,0.46
@@ -8113,119 +8113,119 @@
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS2156_2156_2","CRMS2156",NA,NA,"2156_2","saltmarsh",NA,"29.87525","-93.698083",0.34,0.36,3.5332,0.3028,0.9458,NA,"marsh",11.668428005284,0.52
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS2156_2156_2","CRMS2156",NA,NA,"2156_2","saltmarsh",NA,"29.87525","-93.698083",0.36,0.38,17.3665,4.0048,0.9086,NA,"marsh",4.33642129444666,0.55
 "CCN",NA,"Piazza_et_al_2020","Piazza_et_al_2020_CRMS2156_2156_2","CRMS2156",NA,NA,"2156_2","saltmarsh",NA,"29.87525","-93.698083",0.38,0.4,3.3331,0.2799,0.8481,NA,"marsh",11.9081814933905,0.58
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-22_391","BC14-22",NA,NA,"391","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,17.95,0.918,0.24,NA,"marsh",19.5533769063181,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-22_391","BC14-22",NA,NA,"391","saltmarsh",NA,"54.187753","-130.268095",0.35,0.42,6.09,0.423,0.51,NA,"marsh",14.3971631205674,0.56
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-22_391","BC14-22",NA,NA,"391","saltmarsh",NA,"54.187753","-130.268095",0.6,0.67,2.64,0.189,0.82,NA,"marsh",13.968253968254,0.935
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-23_392","BC14-23",NA,NA,"392","saltmarsh",NA,"54.187753","-130.268095",0.08,0.15,6.57,0.41,0.5,NA,"marsh",16.0243902439024,0.155
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-23_392","BC14-23",NA,NA,"392","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.056,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-23_392","BC14-23",NA,NA,"392","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.052,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-25_393","BC14-25",NA,NA,"393","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,1.33,0.076,1.24,NA,"marsh",17.5,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-25_393","BC14-25",NA,NA,"393","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.084,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-26_394","BC14-26",NA,NA,"394","saltmarsh",NA,"54.187753","-130.268095",0.01,0.08,6.33,0.427,0.46,NA,"marsh",14.824355971897,0.05
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-26_394","BC14-26",NA,NA,"394","saltmarsh",NA,"54.187753","-130.268095",0.3,0.37,3.56,0.233,0.73,NA,"marsh",15.2789699570815,0.485
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-27_395","BC14-27",NA,NA,"395","saltmarsh",NA,"54.187753","-130.268095",0,0.07,18.41,1.093,0.22,NA,"marsh",16.843549862763,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-27_395","BC14-27",NA,NA,"395","saltmarsh",NA,"54.187753","-130.268095",0.35,0.42,8.73,0.461,0.26,NA,"marsh",18.9370932754881,0.56
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-28_396","BC14-28",NA,NA,"396","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,12.77,0.782,0.31,NA,"marsh",16.3299232736573,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-28_396","BC14-28",NA,NA,"396","saltmarsh",NA,"54.187753","-130.268095",0.42,0.49,8.09,0.459,0.4,NA,"marsh",17.6252723311547,0.665
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-29_397","BC14-29",NA,NA,"397","saltmarsh",NA,"54.187753","-130.268095",0.08,0.15,4.03,0.272,0.59,NA,"marsh",14.8161764705882,0.155
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-29_397","BC14-29",NA,NA,"397","saltmarsh",NA,"54.187753","-130.268095",0.35,0.42,3.17,0.19,0.64,NA,"marsh",16.6842105263158,0.56
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-29_397","BC14-29",NA,NA,"397","saltmarsh",NA,"54.187753","-130.268095",0.65,0.72,2.69,0.154,0.8,NA,"marsh",17.4675324675325,1.01
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-30_398","BC14-30",NA,NA,"398","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,1.42,0.091,1.09,NA,"marsh",15.6043956043956,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-30_398","BC14-30",NA,NA,"398","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.078,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-30_398","BC14-30",NA,NA,"398","saltmarsh",NA,"54.187753","-130.268095",0.65,0.72,1.27,0.082,1.16,NA,"marsh",15.4878048780488,1.01
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-31_399","BC14-31",NA,NA,"399","saltmarsh",NA,"54.187753","-130.268095",0.25,0.32,4.55,0.289,0.59,NA,"marsh",15.7439446366782,0.41
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-31_399","BC14-31",NA,NA,"399","saltmarsh",NA,"54.187753","-130.268095",0.65,0.72,2.6,0.151,0.78,NA,"marsh",17.2185430463576,1.01
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,"54.187753","-130.268095",0,0.07,4.66,0.319,0.55,NA,"marsh",14.6081504702194,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.247,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,3.72,0.212,0.79,NA,"marsh",17.5471698113208,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,"54.187753","-130.268095",0.75,0.82,2.48,0.169,0.91,NA,"marsh",14.6745562130178,1.16
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.153,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,"54.187753","-130.268095",0,0.07,3.05,0.185,0.72,NA,"marsh",16.4864864864865,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.074,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,1.07,0.06,1.35,NA,"marsh",17.8333333333333,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,0.96,0.055,1.35,NA,"marsh",17.4545454545455,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,"54.187753","-130.268095",0,0.07,0.92,0.059,1.1,NA,"marsh",15.5932203389831,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.055,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,0.77,0.049,1.34,NA,"marsh",15.7142857142857,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,1.02,0.06,1.08,NA,"marsh",17,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,"54.187753","-130.268095",0,0.07,15.04,0.891,0.24,NA,"marsh",16.8799102132435,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.307,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,3.37,0.241,0.79,NA,"marsh",13.9834024896266,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,3.02,0.178,0.92,NA,"marsh",16.9662921348315,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,"54.187753","-130.268095",0,0.07,5.6,0.355,0.55,NA,"marsh",15.7746478873239,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.251,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,4.24,0.217,0.57,NA,"marsh",19.5391705069124,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,3.54,0.174,0.72,NA,"marsh",20.3448275862069,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,"54.187753","-130.268095",0,0.07,1.16,0.07,1.22,NA,"marsh",16.5714285714286,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.053,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,0.84,0.051,1.3,NA,"marsh",16.4705882352941,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,0.89,0.052,1.34,NA,"marsh",17.1153846153846,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,"54.187753","-130.268095",0,0.07,1.83,0.096,1.23,NA,"marsh",19.0625,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.032,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,0.94,0.051,1.35,NA,"marsh",18.4313725490196,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,"54.187753","-130.268095",0.75,0.82,1.01,0.055,1.21,NA,"marsh",18.3636363636364,1.16
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,"54.187753","-130.268095",0,0.07,3.84,0.238,0.6,NA,"marsh",16.1344537815126,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.161,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,2.34,0.132,1.01,NA,"marsh",17.7272727272727,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,"54.187753","-130.268095",0.9,0.97,1.14,0.061,1.46,NA,"marsh",18.6885245901639,1.385
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-16_408","BC17-16",NA,NA,"408","saltmarsh",NA,"54.187753","-130.268095",0.2,0.27,25.03,1.308,0.18,NA,"marsh",19.1360856269113,0.335
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-16_408","BC17-16",NA,NA,"408","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,7.28,0.419,0.36,NA,"marsh",17.3747016706444,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-16_408","BC17-16",NA,NA,"408","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,6.7,0.394,0.31,NA,"marsh",17.005076142132,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,11.87,0.659,0.34,NA,"marsh",18.0121396054628,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.43,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,4.25,0.266,0.57,NA,"marsh",15.9774436090226,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,2.84,0.173,0.82,NA,"marsh",16.4161849710983,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,"54.187753","-130.268095",0,0.07,4.85,0.286,0.51,NA,"marsh",16.958041958042,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.187,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,5.41,0.277,0.76,NA,"marsh",19.5306859205776,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,1.27,0.068,1.26,NA,"marsh",18.6764705882353,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,"54.187753","-130.268095",0,0.07,1.44,0.071,1.31,NA,"marsh",20.2816901408451,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.061,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,0.85,0.039,1.21,NA,"marsh",21.7948717948718,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,"54.187753","-130.268095",0.9,0.97,0.84,0.04,1.24,NA,"marsh",21,1.385
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,10.79,0.683,0.3,NA,"marsh",15.7979502196193,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.405,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,3.62,0.243,0.76,NA,"marsh",14.8971193415638,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,3.99,0.237,0.69,NA,"marsh",16.8354430379747,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,"54.187753","-130.268095",0,0.07,5.93,0.36,0.44,NA,"marsh",16.4722222222222,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,"54.187753","-130.268095",0.4,0.47,3.06,0.203,0.87,NA,"marsh",15.0738916256158,0.635
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.127,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,2.24,0.136,0.96,NA,"marsh",16.4705882352941,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,"54.187753","-130.268095",0,0.07,18.9,1.127,0.15,NA,"marsh",16.7701863354037,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,"54.187753","-130.268095",0.25,0.32,19.1,1.049,0.22,NA,"marsh",18.2078169685415,0.41
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.492,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,8.82,0.405,0.39,NA,"marsh",21.7777777777778,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,"54.187753","-130.268095",0,0.07,5.57,0.339,0.45,NA,"marsh",16.4306784660767,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.248,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.165,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,2.89,0.16,0.81,NA,"marsh",18.0625,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,2.36,0.133,0.96,NA,"marsh",17.7443609022556,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,15.45,0.834,0.33,NA,"marsh",18.5251798561151,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.353,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,3.88,0.268,0.95,NA,"marsh",14.4776119402985,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,"54.187753","-130.268095",0.9,0.97,3.89,0.236,0.85,NA,"marsh",16.4830508474576,1.385
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,"54.187753","-130.268095",0,0.07,6.32,0.345,0.54,NA,"marsh",18.3188405797101,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,"54.187753","-130.268095",0.35,0.42,3.59,0.209,0.65,NA,"marsh",17.177033492823,0.56
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.168,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,1.45,0.076,1,NA,"marsh",19.078947368421,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,1.42,0.076,1.28,NA,"marsh",18.6842105263158,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.069,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,"54.187753","-130.268095",0.68,0.75,1.09,0.064,1.36,NA,"marsh",17.03125,1.055
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.058,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-27_419","BC17-27",NA,NA,"419","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.074,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-27_419","BC17-27",NA,NA,"419","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.098,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-27_419","BC17-27",NA,NA,"419","saltmarsh",NA,"54.187753","-130.268095",0.75,0.82,1.61,0.063,1.34,NA,"marsh",25.5555555555556,1.16
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-28_420","BC17-28",NA,NA,"420","saltmarsh",NA,"54.187753","-130.268095",0,0.07,5.83,0.394,0.42,NA,"marsh",14.7969543147208,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-28_420","BC17-28",NA,NA,"420","saltmarsh",NA,"54.187753","-130.268095",0.25,0.32,4.53,0.278,0.67,NA,"marsh",16.294964028777,0.41
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-28_420","BC17-28",NA,NA,"420","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.041,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-29_421","BC17-29",NA,NA,"421","saltmarsh",NA,"54.187753","-130.268095",0,0.07,9.46,0.55,0.14,NA,"marsh",17.2,0.035
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-29_421","BC17-29",NA,NA,"421","saltmarsh",NA,"54.187753","-130.268095",0.25,0.32,14.44,0.954,0.38,NA,"marsh",15.1362683438155,0.41
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-29_421","BC17-29",NA,NA,"421","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.081,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,1.6,0.084,1.19,NA,"marsh",19.047619047619,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,"54.187753","-130.268095",0.4,0.47,1.61,0.084,1.19,NA,"marsh",19.1666666666667,0.635
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.105,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,1.46,0.081,1.47,NA,"marsh",18.0246913580247,1.235
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,"54.187753","-130.268095",0.1,0.17,1.2,0.066,1.2,NA,"marsh",18.1818181818182,0.185
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,"54.187753","-130.268095",NA,NA,NA,0.068,NA,NA,"marsh",NA,NA
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,"54.187753","-130.268095",0.5,0.57,0.92,0.044,1.42,NA,"marsh",20.9090909090909,0.785
-"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,"54.187753","-130.268095",0.8,0.87,0.78,0.051,1.18,NA,"marsh",15.2941176470588,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-22_391","BC14-22",NA,NA,"391","saltmarsh",NA,NA,NA,0.1,0.17,17.95,0.918,0.24,NA,"marsh",19.5533769063181,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-22_391","BC14-22",NA,NA,"391","saltmarsh",NA,NA,NA,0.35,0.42,6.09,0.423,0.51,NA,"marsh",14.3971631205674,0.56
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-22_391","BC14-22",NA,NA,"391","saltmarsh",NA,NA,NA,0.6,0.67,2.64,0.189,0.82,NA,"marsh",13.968253968254,0.935
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-23_392","BC14-23",NA,NA,"392","saltmarsh",NA,NA,NA,0.08,0.15,6.57,0.41,0.5,NA,"marsh",16.0243902439024,0.155
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-23_392","BC14-23",NA,NA,"392","saltmarsh",NA,NA,NA,NA,NA,NA,0.056,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-23_392","BC14-23",NA,NA,"392","saltmarsh",NA,NA,NA,NA,NA,NA,0.052,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-25_393","BC14-25",NA,NA,"393","saltmarsh",NA,NA,NA,0.1,0.17,1.33,0.076,1.24,NA,"marsh",17.5,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-25_393","BC14-25",NA,NA,"393","saltmarsh",NA,NA,NA,NA,NA,NA,0.084,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-26_394","BC14-26",NA,NA,"394","saltmarsh",NA,NA,NA,0.01,0.08,6.33,0.427,0.46,NA,"marsh",14.824355971897,0.05
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-26_394","BC14-26",NA,NA,"394","saltmarsh",NA,NA,NA,0.3,0.37,3.56,0.233,0.73,NA,"marsh",15.2789699570815,0.485
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-27_395","BC14-27",NA,NA,"395","saltmarsh",NA,NA,NA,0,0.07,18.41,1.093,0.22,NA,"marsh",16.843549862763,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-27_395","BC14-27",NA,NA,"395","saltmarsh",NA,NA,NA,0.35,0.42,8.73,0.461,0.26,NA,"marsh",18.9370932754881,0.56
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-28_396","BC14-28",NA,NA,"396","saltmarsh",NA,NA,NA,0.1,0.17,12.77,0.782,0.31,NA,"marsh",16.3299232736573,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-28_396","BC14-28",NA,NA,"396","saltmarsh",NA,NA,NA,0.42,0.49,8.09,0.459,0.4,NA,"marsh",17.6252723311547,0.665
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-29_397","BC14-29",NA,NA,"397","saltmarsh",NA,NA,NA,0.08,0.15,4.03,0.272,0.59,NA,"marsh",14.8161764705882,0.155
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-29_397","BC14-29",NA,NA,"397","saltmarsh",NA,NA,NA,0.35,0.42,3.17,0.19,0.64,NA,"marsh",16.6842105263158,0.56
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-29_397","BC14-29",NA,NA,"397","saltmarsh",NA,NA,NA,0.65,0.72,2.69,0.154,0.8,NA,"marsh",17.4675324675325,1.01
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-30_398","BC14-30",NA,NA,"398","saltmarsh",NA,NA,NA,0.1,0.17,1.42,0.091,1.09,NA,"marsh",15.6043956043956,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-30_398","BC14-30",NA,NA,"398","saltmarsh",NA,NA,NA,NA,NA,NA,0.078,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-30_398","BC14-30",NA,NA,"398","saltmarsh",NA,NA,NA,0.65,0.72,1.27,0.082,1.16,NA,"marsh",15.4878048780488,1.01
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-31_399","BC14-31",NA,NA,"399","saltmarsh",NA,NA,NA,0.25,0.32,4.55,0.289,0.59,NA,"marsh",15.7439446366782,0.41
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC14-31_399","BC14-31",NA,NA,"399","saltmarsh",NA,NA,NA,0.65,0.72,2.6,0.151,0.78,NA,"marsh",17.2185430463576,1.01
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,NA,NA,0,0.07,4.66,0.319,0.55,NA,"marsh",14.6081504702194,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,NA,NA,NA,NA,NA,0.247,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,NA,NA,0.5,0.57,3.72,0.212,0.79,NA,"marsh",17.5471698113208,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,NA,NA,0.75,0.82,2.48,0.169,0.91,NA,"marsh",14.6745562130178,1.16
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-08_400","BC17-08",NA,NA,"400","saltmarsh",NA,NA,NA,NA,NA,NA,0.153,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,NA,NA,0,0.07,3.05,0.185,0.72,NA,"marsh",16.4864864864865,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,NA,NA,NA,NA,NA,0.074,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,NA,NA,0.5,0.57,1.07,0.06,1.35,NA,"marsh",17.8333333333333,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-09_401","BC17-09",NA,NA,"401","saltmarsh",NA,NA,NA,0.8,0.87,0.96,0.055,1.35,NA,"marsh",17.4545454545455,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,NA,NA,0,0.07,0.92,0.059,1.1,NA,"marsh",15.5932203389831,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,NA,NA,NA,NA,NA,0.055,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,NA,NA,0.5,0.57,0.77,0.049,1.34,NA,"marsh",15.7142857142857,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-10_402","BC17-10",NA,NA,"402","saltmarsh",NA,NA,NA,0.8,0.87,1.02,0.06,1.08,NA,"marsh",17,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,NA,NA,0,0.07,15.04,0.891,0.24,NA,"marsh",16.8799102132435,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,NA,NA,NA,NA,NA,0.307,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,NA,NA,0.5,0.57,3.37,0.241,0.79,NA,"marsh",13.9834024896266,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-11_403","BC17-11",NA,NA,"403","saltmarsh",NA,NA,NA,0.8,0.87,3.02,0.178,0.92,NA,"marsh",16.9662921348315,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,NA,NA,0,0.07,5.6,0.355,0.55,NA,"marsh",15.7746478873239,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,NA,NA,NA,NA,NA,0.251,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,NA,NA,0.5,0.57,4.24,0.217,0.57,NA,"marsh",19.5391705069124,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-12_404","BC17-12",NA,NA,"404","saltmarsh",NA,NA,NA,0.8,0.87,3.54,0.174,0.72,NA,"marsh",20.3448275862069,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,NA,NA,0,0.07,1.16,0.07,1.22,NA,"marsh",16.5714285714286,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,NA,NA,NA,NA,NA,0.053,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,NA,NA,0.5,0.57,0.84,0.051,1.3,NA,"marsh",16.4705882352941,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-13_405","BC17-13",NA,NA,"405","saltmarsh",NA,NA,NA,0.8,0.87,0.89,0.052,1.34,NA,"marsh",17.1153846153846,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,NA,NA,0,0.07,1.83,0.096,1.23,NA,"marsh",19.0625,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,NA,NA,NA,NA,NA,0.032,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,NA,NA,0.5,0.57,0.94,0.051,1.35,NA,"marsh",18.4313725490196,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-14_406","BC17-14",NA,NA,"406","saltmarsh",NA,NA,NA,0.75,0.82,1.01,0.055,1.21,NA,"marsh",18.3636363636364,1.16
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,NA,NA,0,0.07,3.84,0.238,0.6,NA,"marsh",16.1344537815126,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,NA,NA,NA,NA,NA,0.161,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,NA,NA,0.5,0.57,2.34,0.132,1.01,NA,"marsh",17.7272727272727,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-15_407","BC17-15",NA,NA,"407","saltmarsh",NA,NA,NA,0.9,0.97,1.14,0.061,1.46,NA,"marsh",18.6885245901639,1.385
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-16_408","BC17-16",NA,NA,"408","saltmarsh",NA,NA,NA,0.2,0.27,25.03,1.308,0.18,NA,"marsh",19.1360856269113,0.335
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-16_408","BC17-16",NA,NA,"408","saltmarsh",NA,NA,NA,0.5,0.57,7.28,0.419,0.36,NA,"marsh",17.3747016706444,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-16_408","BC17-16",NA,NA,"408","saltmarsh",NA,NA,NA,0.8,0.87,6.7,0.394,0.31,NA,"marsh",17.005076142132,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,NA,NA,0.1,0.17,11.87,0.659,0.34,NA,"marsh",18.0121396054628,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,NA,NA,NA,NA,NA,0.43,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,NA,NA,0.5,0.57,4.25,0.266,0.57,NA,"marsh",15.9774436090226,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-17_409","BC17-17",NA,NA,"409","saltmarsh",NA,NA,NA,0.8,0.87,2.84,0.173,0.82,NA,"marsh",16.4161849710983,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,NA,NA,0,0.07,4.85,0.286,0.51,NA,"marsh",16.958041958042,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,NA,NA,NA,NA,NA,0.187,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,NA,NA,0.5,0.57,5.41,0.277,0.76,NA,"marsh",19.5306859205776,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-18_410","BC17-18",NA,NA,"410","saltmarsh",NA,NA,NA,0.8,0.87,1.27,0.068,1.26,NA,"marsh",18.6764705882353,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,NA,NA,0,0.07,1.44,0.071,1.31,NA,"marsh",20.2816901408451,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,NA,NA,NA,NA,NA,0.061,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,NA,NA,0.5,0.57,0.85,0.039,1.21,NA,"marsh",21.7948717948718,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-19_411","BC17-19",NA,NA,"411","saltmarsh",NA,NA,NA,0.9,0.97,0.84,0.04,1.24,NA,"marsh",21,1.385
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,NA,NA,0.1,0.17,10.79,0.683,0.3,NA,"marsh",15.7979502196193,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,NA,NA,NA,NA,NA,0.405,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,NA,NA,0.5,0.57,3.62,0.243,0.76,NA,"marsh",14.8971193415638,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-20_412","BC17-20",NA,NA,"412","saltmarsh",NA,NA,NA,0.8,0.87,3.99,0.237,0.69,NA,"marsh",16.8354430379747,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,NA,NA,0,0.07,5.93,0.36,0.44,NA,"marsh",16.4722222222222,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,NA,NA,0.4,0.47,3.06,0.203,0.87,NA,"marsh",15.0738916256158,0.635
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,NA,NA,NA,NA,NA,0.127,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-21_413","BC17-21",NA,NA,"413","saltmarsh",NA,NA,NA,0.8,0.87,2.24,0.136,0.96,NA,"marsh",16.4705882352941,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,NA,NA,0,0.07,18.9,1.127,0.15,NA,"marsh",16.7701863354037,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,NA,NA,0.25,0.32,19.1,1.049,0.22,NA,"marsh",18.2078169685415,0.41
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,NA,NA,NA,NA,NA,0.492,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-22_414","BC17-22",NA,NA,"414","saltmarsh",NA,NA,NA,0.8,0.87,8.82,0.405,0.39,NA,"marsh",21.7777777777778,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,NA,NA,0,0.07,5.57,0.339,0.45,NA,"marsh",16.4306784660767,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,NA,NA,NA,NA,NA,0.248,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,NA,NA,NA,NA,NA,0.165,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,NA,NA,0.5,0.57,2.89,0.16,0.81,NA,"marsh",18.0625,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-23_415","BC17-23",NA,NA,"415","saltmarsh",NA,NA,NA,0.8,0.87,2.36,0.133,0.96,NA,"marsh",17.7443609022556,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,NA,NA,0.1,0.17,15.45,0.834,0.33,NA,"marsh",18.5251798561151,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,NA,NA,NA,NA,NA,0.353,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,NA,NA,0.5,0.57,3.88,0.268,0.95,NA,"marsh",14.4776119402985,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-24_416","BC17-24",NA,NA,"416","saltmarsh",NA,NA,NA,0.9,0.97,3.89,0.236,0.85,NA,"marsh",16.4830508474576,1.385
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,NA,NA,0,0.07,6.32,0.345,0.54,NA,"marsh",18.3188405797101,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,NA,NA,0.35,0.42,3.59,0.209,0.65,NA,"marsh",17.177033492823,0.56
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,NA,NA,NA,NA,NA,0.168,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-25_417","BC17-25",NA,NA,"417","saltmarsh",NA,NA,NA,0.8,0.87,1.45,0.076,1,NA,"marsh",19.0789473684211,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,NA,NA,0.1,0.17,1.42,0.076,1.28,NA,"marsh",18.6842105263158,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,NA,NA,NA,NA,NA,0.069,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,NA,NA,0.68,0.75,1.09,0.064,1.36,NA,"marsh",17.03125,1.055
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-26_418","BC17-26",NA,NA,"418","saltmarsh",NA,NA,NA,NA,NA,NA,0.058,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-27_419","BC17-27",NA,NA,"419","saltmarsh",NA,NA,NA,NA,NA,NA,0.074,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-27_419","BC17-27",NA,NA,"419","saltmarsh",NA,NA,NA,NA,NA,NA,0.098,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-27_419","BC17-27",NA,NA,"419","saltmarsh",NA,NA,NA,0.75,0.82,1.61,0.063,1.34,NA,"marsh",25.5555555555556,1.16
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-28_420","BC17-28",NA,NA,"420","saltmarsh",NA,NA,NA,0,0.07,5.83,0.394,0.42,NA,"marsh",14.7969543147208,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-28_420","BC17-28",NA,NA,"420","saltmarsh",NA,NA,NA,0.25,0.32,4.53,0.278,0.67,NA,"marsh",16.294964028777,0.41
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-28_420","BC17-28",NA,NA,"420","saltmarsh",NA,NA,NA,NA,NA,NA,0.041,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-29_421","BC17-29",NA,NA,"421","saltmarsh",NA,NA,NA,0,0.07,9.46,0.55,0.14,NA,"marsh",17.2,0.035
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-29_421","BC17-29",NA,NA,"421","saltmarsh",NA,NA,NA,0.25,0.32,14.44,0.954,0.38,NA,"marsh",15.1362683438155,0.41
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-29_421","BC17-29",NA,NA,"421","saltmarsh",NA,NA,NA,NA,NA,NA,0.081,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,NA,NA,0.1,0.17,1.6,0.084,1.19,NA,"marsh",19.047619047619,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,NA,NA,0.4,0.47,1.61,0.084,1.19,NA,"marsh",19.1666666666667,0.635
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,NA,NA,NA,NA,NA,0.105,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-30_422","BC17-30",NA,NA,"422","saltmarsh",NA,NA,NA,0.8,0.87,1.46,0.081,1.47,NA,"marsh",18.0246913580247,1.235
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,NA,NA,0.1,0.17,1.2,0.066,1.2,NA,"marsh",18.1818181818182,0.185
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,NA,NA,NA,NA,NA,0.068,NA,NA,"marsh",NA,NA
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,NA,NA,0.5,0.57,0.92,0.044,1.42,NA,"marsh",20.9090909090909,0.785
+"CCN",NA,"sanborn_and_coxson_2020","sanborn_and_coxson_2020_BC17-31_423","BC17-31",NA,NA,"423","saltmarsh",NA,NA,NA,0.8,0.87,0.78,0.051,1.18,NA,"marsh",15.2941176470588,1.235

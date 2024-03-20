@@ -25,6 +25,8 @@ list_of_dfs <- map(csv_files, ~{
 # Check the structure of each data frame
 walk(list_of_dfs, ~str(.))
 
+#Fix df1 
+list_of_dfs[[1]]$N_perc <- as.numeric(list_of_dfs[[1]]$N_perc)
 
 # Combine all data frames into one
 combined_data <- bind_rows(list_of_dfs, .id = "file_id")

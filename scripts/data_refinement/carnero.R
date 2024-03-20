@@ -9,8 +9,8 @@ input_data01 <- read.csv("data/raw_data/carnero.csv")
 
 ##### add informational  
 #Ask Adam if it's carnero or ruiz-fernandes
-source_name <- "ruiz-fernandes"
-author_initials <- "rf"
+source_name <- "carnera-bravo"
+author_initials <- "cb"
 
 
 

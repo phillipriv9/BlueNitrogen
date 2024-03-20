@@ -7,9 +7,14 @@ library(tidyverse)
 
 input_data01 <- read.csv("data/raw_data/acrf.csv")
 
+#Removing empty row
+input_data01 <- input_data01[-c(48, 99), ]
+
+input_data01$N_perc <- as.numeric(input_data01$N_perc)
+
 ##### add informational  
-source_name <- "acrf"
-author_initials <- "acrf"
+source_name <- "ruiz-fernadez"
+author_initials <- "rf"
 
 
 
@@ -28,3 +33,4 @@ export_file <- paste(path_out, source_name, ".csv", sep = '')
 export_df <- export_data01
 
 write.csv(export_df, export_file)
+

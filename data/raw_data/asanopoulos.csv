@@ -1,5 +1,4 @@
-﻿study_id,DOI,site_id,core_id,corenotes,Habitat_type,Habitat,Year_collected,Latitude,Longitude,U_depth_m,L_depth_m,OC_perc,N_perc,LOI,BD_reported_g_cm3,notes
-Pastore_et_al_2013,https://doi.org/10.1038/s41558-018-0162-5,SERC,2,control plot,Salt marsh,marsh,2014,38.873734,76.549577,0,0.02,40.40961,1.9407891,NA,0.111540761,example data
+study_id,DOI,site_id,core_id,corenotes,Habitat_type,Habitat,Year_collected,Latitude,Longitude,U_depth_m,L_depth_m,OC_perc,N_perc,LOI,BD_reported_g_cm3,notes
 Asanopoulos_et_al_2021,https://doi.org/10.1071/SR20040,Site 1_Torrens Island ,T10001,"Transect 1, Position 1",Tidal marsh,Sarcocornia quinqueflora/Tecticornia arbuscular,2016,34.78475,138.5200833,0,0.1,2.059337035,0.176903318,NA,0.959306419,GPS was taken from the centre core of each transect
 Asanopoulos_et_al_2021,https://doi.org/10.1071/SR20040,Site 1_Torrens Island ,T10002,"Transect 1, Position 2",Tidal marsh,Sarcocornia quinqueflora/Tecticornia arbuscular,2016,34.78475,138.5200833,0,0.1,7.660565668,0.563711402,NA,0.561419062,GPS was taken from the centre core of each transect
 Asanopoulos_et_al_2021,https://doi.org/10.1071/SR20040,Site 1_Torrens Island ,T10003,"Transect 1, Position 3",Tidal marsh,Sarcocornia quinqueflora/Tecticornia arbuscular,2016,34.78475,138.5200833,0,0.1,8.031453245,0.601514106,NA,0.411614472,GPS was taken from the centre core of each transect

@@ -18,7 +18,7 @@ mangrove <- df2 %>%
 CCN <-df2 %>%
   filter(Database %in% c("CCN"))
 
-model <- lmer(N_perc ~  OC_perc*Habitat + centerdepth + (1 | study_id/core_id), data = df2) #plot nested within source
+model <- lmer(N_perc ~  OC_perc*Habitat + centerdepth + (1 | study_id/core_id), data = df2, REML = false) #plot nested within source
 # variability derives from different experimenters sampling different sites.
 
 model2 <- lmer(CN ~  OC_perc * Habitat  +(1 | study_id/core_id/centerdepth), data = CCN)

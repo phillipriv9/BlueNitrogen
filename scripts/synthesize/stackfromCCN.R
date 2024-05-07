@@ -67,3 +67,4 @@ if (!dir.exists(output_folder)) dir.create(output_folder)
 # Write the combined data frame to a new CSV file in the "Combined" folder
 output_file <- file.path(output_folder, "CCN_combined_data.csv")
 write.csv(combined_data2, output_file, row.names = FALSE)
+

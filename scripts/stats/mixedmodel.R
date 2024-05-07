@@ -14,7 +14,7 @@ csv_file_path <- "data/combined/AllCombined.csv"
 df1 <- read.csv(csv_file_path)
 
 # Remove rows with infinite or NA values in the CN column
-df1 <- df1[is.infinite(df1$CN) & !is.na(df1$CN), ]
+df1 <- df1[! (is.infinite(df1$CN) | is.na(df1$CN)), ]
 
 # Filter values greater than 100 in the CN column to remove outliers
 df1_filtered <- df1 %>% filter(!is.na(CN) & CN > 100)
